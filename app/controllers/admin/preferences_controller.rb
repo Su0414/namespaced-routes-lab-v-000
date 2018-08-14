@@ -1,2 +1,4 @@
 class Admin::PreferencesController < ApplicationController
-end 
+  def index
+  end
+end
